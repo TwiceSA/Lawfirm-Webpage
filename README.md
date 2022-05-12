@@ -1,3 +1,1 @@
-### Hi there 👋
-Im a sotware developer from South Africa, mainly focusing on app and web developement and databases.
-
+Law Firm Web Page sample that I worked on with FreeCodeCamp
